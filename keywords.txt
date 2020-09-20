@@ -12,17 +12,19 @@ TimerState	KEYWORD1	TimerState
 #######################################
 # Methods and Functions (KEYWORD2)
 #######################################
-GetAction	KEYWORD2
-SetAction	KEYWORD2
 GetInterval	KEYWORD2
 SetInterval	KEYWORD2
 GetState	KEYWORD2
-GetStatus	KEYWORD2
 Start	KEYWORD2
 Pause	KEYWORD2
 Resume	KEYWORD2
 Stop	KEYWORD2	
 Loop	KEYWORD2
+OnStart	KEYWORD2
+OnPause	KEYWORD2
+OnResume	KEYWORD2
+OnStop	KEYWORD2
+OnTick	KEYWORD2
 
 #######################################
 # Constants (LITERAL1)
