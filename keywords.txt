@@ -1,0 +1,34 @@
+#######################################
+# Syntax Coloring Map Timer
+#######################################
+
+#######################################
+# Datatypes (KEYWORD1)
+#######################################
+
+Timer	KEYWORD1	Timer
+TimerState	KEYWORD1	TimerState
+
+#######################################
+# Methods and Functions (KEYWORD2)
+#######################################
+GetInterval	KEYWORD2
+SetInterval	KEYWORD2
+GetState	KEYWORD2
+Start	KEYWORD2
+Pause	KEYWORD2
+Resume	KEYWORD2
+Stop	KEYWORD2	
+Loop	KEYWORD2
+OnStart	KEYWORD2
+OnPause	KEYWORD2
+OnResume	KEYWORD2
+OnStop	KEYWORD2
+OnTick	KEYWORD2
+
+#######################################
+# Constants (LITERAL1)
+#######################################
+STOP	LITERAL1
+PAUSE	LITERAL1
+START	LITERAL1
